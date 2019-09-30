@@ -1,0 +1,14 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	echoms                  3023
+//	eol                     305C
+//	getexit                 3052
+//	gets                    3047
+//	ina                     3012
+//	nl                      3010
+//	progovr                 3033
+//	rloop                   304A
+//	saddr                   3046
+//	saveR2                  3059
+//	saveR6                  305A
+//	saveR7                  305B

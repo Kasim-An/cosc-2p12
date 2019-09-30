@@ -1,0 +1,8 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	chr0                    301A
+//	eol                     300E
+//	loop                    3003
+//	nlcomp                  301B
+//	prompt                  3011
+//	value                   3010

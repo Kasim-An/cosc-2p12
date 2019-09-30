@@ -1,0 +1,30 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ASCIIA                  3077
+//	ASCIIB                  3079
+//	ASCIIC                  307B
+//	ASCIID                  307D
+//	ASCIIE                  307F
+//	ASCIIF                  3081
+//	XA                      3047
+//	XB                      3049
+//	XC                      304B
+//	XD                      304D
+//	XE                      304F
+//	XF                      3051
+//	b                       3053
+//	change                  302D
+//	convert                 3039
+//	cou                     3056
+//	display                 300C
+//	displayhex              3016
+//	end                     3083
+//	input                   3065
+//	loop                    3000
+//	n                       3054
+//	negative                3030
+//	positive                3021
+//	quo                     3075
+//	rem                     3076
+//	remainn                 3034
+//	remainp                 3025
